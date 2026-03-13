@@ -15,7 +15,7 @@ This API is available on the RapidAPI Marketplace.
 
 Pricing: $0.25 per request (Pay-as-you-go)
 
-Hub Link: [PASTE_YOUR_RAPIDAPI_HUB_URL_HERE]
+Hub Link: [https://rapidapi.com/nakhilch87/api/aca-2026-sovereign-tax-shield]
 
 🤖 SEO for Agents
 Keywords: tax-automation, uae-2026-compliance, pint-ae, e-invoicing-api, fintech-logic, ai-agent-tools.
